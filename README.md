@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feelonewong
 - 👀 I’m interested in React.js, Vue.js && Node.JS
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js&&Go&&cloud native.
 - 💞️ I’m looking to collaborate on ...
 - 📫 feelonewong#gmail.com (`#` replace with `@`)
 
